@@ -21,6 +21,10 @@
         <java.version>17</java.version>
         <sonar.organization>bperezces</sonar.organization>
     </properties>
+
+    <properties>
+       <sonar.organization>macarenaleal</sonar.organization>
+    </properties>
         
     <dependencies>
         <dependency>
